@@ -1,0 +1,9 @@
+[Settings]
+ApplicationToStart = "TDOL - PROGRAM.EXE"
+
+[Data]
+FS = 152576
+HV = 2F4CF351C2A11A3CE0E706A63998816D
+DA = 2022-06-17
+TI = 19:12
+

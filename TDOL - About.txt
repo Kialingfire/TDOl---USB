@@ -1,0 +1,45 @@
+║ @@@@@@@@@@@@@@@@@@ ║ ______   _____     ______     __        
+║ @@@@..........@@@@ ║/\__  _\ /\  __-.  /\  __ \   /\ \ 
+║ @@@@..........@@@@ ║\/_/\ \/ \ \ \/\ \ \ \ \/\ \  \ \ \____ 
+║ @@@@..........@@@@ ║   \ \_\  \ \____-  \ \_____\  \ \_____\ 
+║ @@@@..........@@@@ ║    \/_/   \/____/   \/_____/   \/_____/ 
+║ @@..............@@ ║ ______   ______     ______       __     ______     ______     ______  
+║ @@..............@@ ║/\  == \ /\  == \   /\  __ \     /\ \   /\  ___\   /\  ___\   /\__  _\ 
+║ @@..............@@ ║\ \  _-/ \ \  __<   \ \ \/\ \   _\_\ \  \ \  __\   \ \ \____  \/_/\ \/ 
+║ @@..............@@ ║ \ \_\    \ \_\ \_\  \ \_____\ /\_____\  \ \_____\  \ \_____\    \ \_\ 
+║ @@..............@@ ║  \/_/     \/_/ /_/   \/_____/ \/_____/   \/_____/   \/_____/     \/_/ 
+║ @@..............@@ ║===============a=======================================================
+║ @@..............@@ ║Project Name - (ThumbDriveOfLife)
+║ @@..............@@ ║Project Created - (6/14/2022)
+║ @@..............@@ ║Project Relesed - (6/15/2022)
+║ @@..............@@ ║Last Updated - (6/15/2022)
+║ @@..............@@ ║Project version - (PS:001)
+║ @@..............@@ ║TDOl USB ID - (id:TDOL-0945)
+║ @@..............@@ ║
+║ @@..............@@ ║Project Creator - (Tenshi#3025)
+║ @@..............@@ ║Project Discord - (null)
+║ @@..............@@ ║
+║ @@..............@@ ║Warrning i'm not responsible for any dispshitery/illegal actions that
+║ @@@............@@@ ║comes from using this device. It was made for (educatinol purposes only
+║ @@@@..........@@@@ ║Use at your own risk).
+║ @@@@@@@@@@@@@@@@@@ ║
+║  ______            ║(This Usb only works with window devices.)
+║ /\__  _\           ║======================================================================
+║ \/_/\ \/           ║What is TDOl-PS
+║    \ \_\           ║TDOL-PS is a passwordStealer/Recovery tool used to grab passwords from
+║     \/_/           ║a windows computer in the matter of seconds
+║  _____             ║
+║ /\  __-.           ║
+║ \ \ \/\ \          ║How to use the passwordGrabber
+║  \ \____-          ║1. Plug usb into computer
+║   \/____/          ║2. wait untill the folder opens and a pass.txt file showsup
+║  ______            ║3. rename the pass.txt to what ever you want and move it into the passwords
+║ /\  __ \           ║folder
+║ \ \ \/\ \          ║4. unplug ubs
+║  \ \_____\         ║
+║   \/_____/         ║
+║  __                ║How to contact support
+║ /\ \               ║To conatact support for the usb go to the Projects discord the link is
+║ \ \ \____          ║Provided ib the Project info section of the .txt file.
+║  \ \_____\         ║
+║   \/_____/         ║
